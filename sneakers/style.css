@@ -1,13 +1,17 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
-    font-family: Arial, sans-serif;
     padding: 0 15px;
   }
   
   h2 {
     font-size: 24px;
     margin-bottom: 20px;
+    font-weight: 700;
   }
   
   .products {
